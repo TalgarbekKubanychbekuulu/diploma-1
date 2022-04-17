@@ -3,7 +3,9 @@ import "./Footer.css";
 function Footer() {
   return (
     <footer className="Footer">
-      Fresh Coffee Beans 2022
+      <div className="container">
+        Fresh Coffee Beans 2022
+      </div>
     </footer>
   );
 }
